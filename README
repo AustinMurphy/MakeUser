@@ -1,0 +1,18 @@
+Sysadmin tools - Accounts
+
+    make-user.sh  
+
+  A simple user creation script for delegated administrators.
+  Allows non-experts to add users to a Linux server. 
+  Useful when many new users are expected to be added over time.
+
+
+   HOWTO-MakeUser.pdf
+
+  Instruction sheet for delegated admin.
+
+
+
+
+
+  
