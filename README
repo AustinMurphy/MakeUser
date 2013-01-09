@@ -1,4 +1,4 @@
-Sysadmin tools - Accounts
+Sysadmin tools - Delegated User Creation
 
     make-user.sh  
 
@@ -7,12 +7,14 @@ Sysadmin tools - Accounts
   Useful when many new users are expected to be added over time.
 
 
-   HOWTO-MakeUser.pdf
+    HOWTO-MakeUser.pdf
 
   Instruction sheet for delegated admin.
 
 
+    disk_usage_report.pl
 
+  Generates a report of disk usage with min/max/avg. 
 
 
   
